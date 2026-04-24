@@ -121,22 +121,8 @@ pandas — экспорт в Excel
 
 Статистика по классам
 
-📁 Структура проекта
-text
-exam-results-analyzer/
-├── main.py                 # Точка входа
-├── database.py             # Работа с SQLite
-├── pdf_parser.py           # Парсинг PDF-файлов
-├── report_generator.py     # Генерация PDF-отчётов
-├── models.py               # Модели данных
-├── widgets/
-│   ├── __init__.py
-│   ├── main_window.py      # Главное окно
-│   ├── load_tab.py         # Вкладка загрузки
-│   ├── retake_tab.py       # Вкладка пересдач
-│   ├── stats_tab.py        # Вкладка статистики
-│   └── exam_manager.py     # Управление экзаменами
-└── exam_results.db         # База данных (создаётся автоматически)
+<img width="449" height="340" alt="image" src="https://github.com/user-attachments/assets/30acdbb5-8286-474f-b5e2-5a2161b10f5a" />
+
 📊 Формат входных файлов
 Программа поддерживает PDF-протоколы следующего формата:
 

@@ -37,7 +37,9 @@ pandas — экспорт в Excel
 
  Инструкция по использованию
 1. Импорт экзамена
-   <img width="1366" height="730" alt="image" src="https://github.com/user-attachments/assets/87968455-a758-4fc3-9154-8d8dcbd03c8c" />
+   
+<img width="2992" height="4448" alt="image" src="https://github.com/user-attachments/assets/8223dc9d-5924-4eea-b0a6-ac3b189f557b" />
+
 
 Перейдите на вкладку "Загрузка и просмотр"
 
@@ -48,7 +50,8 @@ pandas — экспорт в Excel
 Проверьте отображение данных в таблице
 
 Нажмите "Сохранить в БД"
-<img width="1366" height="730" alt="image" src="https://github.com/user-attachments/assets/35889b70-1549-4359-b1ef-9b116fb33268" />
+<img width="2992" height="4448" alt="image" src="https://github.com/user-attachments/assets/100d9e7c-8b2f-49e1-97ee-9ee192d750eb" />
+
 
 
 Примечание: При повторном импорте того же файла программа предупредит о дубликате.
